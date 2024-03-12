@@ -1,0 +1,10 @@
+Datum:Sat Feb 03 18:29:03 CET 2024 Naziv operacije:promeniDomenskiObjekat
+Domenski objekat:2, 'AirSerbia', 12345, 'Pera Peric', 'Beograd', 'Bec', '2024-02-14' Poruka:Sistem je azurirao let.
+Datum:Sat Feb 03 18:29:05 CET 2024 Naziv operacije:kreirajDomenskiObjekat
+Domenski objekat:10, 'Nepoznato', 0, 'Nepoznato', 'Nepoznato', 'Nepoznato', '2024-02-03' Poruka:Sistem je kreirao let.
+Datum:Sun Feb 04 13:38:35 CET 2024 Naziv operacije:kreirajDomenskiObjekat
+Domenski objekat:24, 'Nepoznato', 0, 'Nepoznato', 'Nepoznato', 'Nepoznato', '2024-02-04' Poruka:Sistem je kreirao let.
+Datum:Sun Feb 04 13:38:37 CET 2024 Naziv operacije:obrisiDomenskiObjekat
+Domenski objekat:24, 'Nepoznato', 0, 'Nepoznato', 'Nepoznato', 'Nepoznato', '2024-02-04' Poruka:Sistem je obrisao let.
+Datum:Tue Mar 12 17:48:45 CET 2024 Naziv operacije:kreirajDomenskiObjekat
+Domenski objekat:4, 'Nepoznato', 0, 'Nepoznato', 'Nepoznato', 'Nepoznato', '2024-03-12' Poruka:Sistem je kreirao let.
